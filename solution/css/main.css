@@ -7,7 +7,7 @@ body {
     background: #FFF;
     color: #444;
     max-width: 40em;
-    border-left: 6px solid #DDD;
+    border: 20px solid #DDD;
 }
 
 a {
